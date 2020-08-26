@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.shidili</groupId>
     <artifactId>demo</artifactId>
-    <version>0.8.4-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>demo</name>
     <url>https://github.com/shidilii/demo.git</url>
     <description>Demo project for Spring Boot</description>
