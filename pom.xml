@@ -10,9 +10,17 @@
     </parent>
     <groupId>com.shidili</groupId>
     <artifactId>demo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.8.4-SNAPSHOT</version>
     <name>demo</name>
+    <url>https://github.com/shidilii/demo.git</url>
     <description>Demo project for Spring Boot</description>
+
+    <scm>
+        <connection>scm:git@github.com/shidilii/demo.git</connection>
+        <developerConnection>scm:git@github.com/shidilii/demo.git</developerConnection>
+        <url>https://github.com/shidilii/demo</url>
+    </scm>
+
 
     <properties>
         <java.version>1.8</java.version>
