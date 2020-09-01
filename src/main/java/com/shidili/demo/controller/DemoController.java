@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class DemoController {
     @RequestMapping("/test")
     public void delProject() {
-        System.out.println("333");
+        System.out.println("3334");
     }
 }
